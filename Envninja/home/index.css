@@ -123,22 +123,23 @@ p img {
     font-size: 20px;
     color: #0091EA;
     height: 100px;
+     margin-top:500px;
 }
 
 footer3 a {
     color: white;
     font-size: 20px;
-    margin-top:100px;
+    margin-top:500px;
 }
 
 .footer {
     background-color: #64DD17;
-    margin-top:100px;
+    margin-top:500px;
 }
 
 .footer2 {
     background-color: #64DD17;
-    margin-top:100px;
+    margin-top:500px;
 }
 
 h5 {
