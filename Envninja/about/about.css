@@ -245,10 +245,10 @@ p16 hr
 
 #myCarousel img { height: 90%; 
     width: 100%;
-    margin-top: 35px;
+    margin-top: 5px;
 }
 
-.carousel-inner p { margin-bottom: 15px; 
+.carousel-inner p { margin-bottom: 5px; 
     margin-top: 15px; 
     color : white; 
     font-size: 20px; 
