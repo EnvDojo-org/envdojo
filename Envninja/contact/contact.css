@@ -96,7 +96,7 @@ hr
 h1
 {
   text-align:center;
-  color:black;
+  color:white;
   font-size:60px;
   font-family:Lato, sans-serif;
 }
@@ -164,4 +164,9 @@ h3
 {
 font-size:25px;
 color:black;
+}
+
+h4
+{
+ color:black; 
 }
