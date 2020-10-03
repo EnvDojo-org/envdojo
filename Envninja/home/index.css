@@ -162,13 +162,14 @@ h6 {
 
 h17 {
     text-align: center;
-    font-size: 25px;
+    color: white;
+    font-size: 24px;
     font-family: Lato, sans-serif;
 }
 
 h18 {
-    font-size: 13px;
-    color: black;
+    font-size: 24px;
+    color: white;
     text-align: center;
     font-family: Lato, sans-serif;
 }
@@ -188,7 +189,7 @@ h18 {
 
 .line {
     height: 6px;
-    background-color: black;
+    background-color: white;
     width: 140px;
     margin: 8px auto;
 }
