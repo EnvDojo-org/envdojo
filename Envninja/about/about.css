@@ -237,6 +237,7 @@ p16 hr
 }
 
 .container { text-align: center; 
+    height:400px;
 } 
 
 #myCarousel { background-color: #64DD17; 
