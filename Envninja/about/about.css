@@ -116,6 +116,15 @@ hr {
 }
 
 
+text
+{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: Lato, sans-serif;
+}
+
+
 
 h1 {
     text-align: center;
